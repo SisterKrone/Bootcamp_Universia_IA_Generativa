@@ -71,14 +71,13 @@ Utilize os prompts dentro da pasta "prompts" para criar um podcast de maneira au
     </a>
     &nbsp;|&nbsp;
     <a 
-        href='www.linkedin.com/in/luís-cláudio-54a15414a'>
+        href='www.linkedin.com/in/luis-claudio-54a15414a'>
         LinkedIn
-    </a>
- 
+    </a> 
     &nbsp;|&nbsp;
    <a 
         href='https://open.spotify.com/user/31ujmgn7l6sfvdawfjyck6v2rb6m'>
-        Podcast-Spotify
+        Podcast
     </a>
     &nbsp;|&nbsp;</p>
     <p>
